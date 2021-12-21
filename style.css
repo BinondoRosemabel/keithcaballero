@@ -82,3 +82,17 @@ td {
   text-align: center;
   width: 100%;
 }
+.custom_btn {
+  font-family: "Righteous", cursive;
+  display: inline-block;
+  background-color: #4c16f7;
+  color: #fff;
+  padding: 0.75rem 1rem;
+  border-radius: 0.5rem;
+  transition: 0.3s;
+  text-decoration: none;
+}
+.custom_btn:hover {
+  background-color: #7b16f7;
+  color: black;
+}
